@@ -306,7 +306,7 @@ export function AboutPage({ onNavigate }: AboutPageProps) {
             className="text-center"
           >
             <button
-              onClick={() => onNavigate('get-involved')}
+              onClick={() => onNavigate('contact')}
               className="px-8 py-4 bg-[#DC2626] text-white rounded-xl hover:bg-[#B91C1C] transition-all hover:shadow-xl hover:-translate-y-1"
             >
               Want to Join Our Team?
