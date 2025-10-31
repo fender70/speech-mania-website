@@ -291,7 +291,7 @@ export function AboutPage({ onNavigate }: AboutPageProps) {
               </div>
               <div className="p-6">
                 <h4 className="text-xl text-[#043476] mb-2">Cedric Zarate</h4>
-                <p className="text-sm text-[#DC2626] mb-3">Co-Founder & Technology Director</p>
+                <p className="text-sm text-[#DC2626] mb-3">Technology Director</p>
                 <p className="text-gray-600 text-sm leading-relaxed">
                   Cedric oversees all things tech at Speech Mania. He manages our website and leads development of speech.io, an AI practice companion that gives instant, actionable feedback on delivery and structure. His work centers on access and scalability, making high-quality speaking practice available to students across Southeast Asia.
                 </p>

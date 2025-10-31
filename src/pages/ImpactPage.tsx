@@ -8,7 +8,7 @@ import testimonial1Image from '../assets/general_pictures/LINE_ALBUM_TIPSC photo
 import testimonial2Image from '../assets/general_pictures/LINE_ALBUM_TIPSC photos_250908_38.jpg';
 import gallery1 from '../assets/general_pictures/LINE_ALBUM_TIPSC photos_250908_44.jpg';
 import gallery2 from '../assets/general_pictures/LINE_ALBUM_TIPSC photos_250908_51.jpg';
-import gallery3 from '../assets/general_pictures/LINE_ALBUM_TIPSC photos_250908_56.jpg';
+import gallery3 from '../assets/general_pictures/LINE_ALBUM_TIPSC photos_250908_27.jpg';
 import gallery4 from '../assets/general_pictures/LINE_ALBUM_TIPSC photos_250908_60.jpg';
 
 interface ImpactPageProps {
